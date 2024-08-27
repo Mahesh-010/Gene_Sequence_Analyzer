@@ -1,6 +1,7 @@
 # Gene_Sequence_Analyzer
 
 Explanation of the Code:
+
 1. Gene Database: A dictionary containing sample gene sequences with associated
 genes, mutations, and disorders.
 2. Validation Function: is_valid_dna checks if the input DNA sequence is valid.
@@ -15,6 +16,7 @@ contains any known gene mutations associated with genetic disorders.
 8. GUI Creation: create_gui sets up the graphical user interface using Tkinter.
 
 Conclusion:
+
 The Gene Sequence Analyzer provides a comprehensive tool for analyzing DNA sequences,
 calculating GC content, transcribing DNA to RNA, and detecting genetic disorders. By
 integrating advanced computational techniques with a user-friendly interface, it enables users
